@@ -1,0 +1,22 @@
+{
+  "name": "translate-morse",
+  "version": "1.0.0",
+  "description": " simple translate morse to alphabet and alphabet to morse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadyPOG/morse-code-translator.git"
+  },
+  "keywords": [
+    "translate"
+  ],
+  "author": "Mady",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/MadyPOG/morse-code.translator#readme"
+}
